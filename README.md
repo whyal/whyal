@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yong Lun 👋
 
-<!--
-**whyal/whyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer passionate about building AI-powered applications
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning AI Engineering, RAG, and AI Agents
+- 🔨 Building with Java, Spring Boot, Next.js, React, Flutter
+- 🤖 Interested in deploying LLMs into real-world systems
+
+## 🛠 Tech Stack
+
+Languages : 
+Java • Python • JavaScript • TypeScript • SQL • Dart
+
+Backend : 
+Spring Boot • Node.js • REST APIs
+
+Frontend : 
+React • Next.js • Flutter • Tailwind CSS
+
+
+## ⭐ Featured Projects
+
+### AI Travel Planner
+An intelligent trip planner using Spring Boot, Next.js, and LLMs.
+
+### Eye Gaze Authentication
+Research project using ARKit and Flutter for biometric authentication.
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/yong-lun-tan/
+- Email: tanyonglun2000@gmail.com
