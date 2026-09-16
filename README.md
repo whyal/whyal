@@ -1,25 +1,18 @@
-# Hi, I'm Yong Lun 👋
+# Hey, I'm Yong Lun
 
-💻 Software Engineer passionate about building solutions to solve real-world problems
+Software engineer working across backend systems, web apps, and practical AI applications (RAG & agentic workflows).
 
-## 🚀 About Me
+### What I'm into right now
+- Building full-stack systems with **Java / Spring Boot** and **Next.js / React / Flutter**.
+- Exploring production LLM workflows: retrieval-augmented generation (RAG) and autonomous agents.
+- Designing clean APIs and pragmatic backend architectures.
 
-- 🌱 Learning AI Engineering, RAG, and AI Agents
-- 🔨 Building with Java, Spring Boot, Next.js, React, Flutter
-- 🤖 Interested in deploying LLMs into real-world systems
+### Tech & Tools
+- **Languages:** Java, TypeScript, JavaScript, Python, Dart, SQL
+- **Frameworks & Libs:** Spring Boot, Next.js, React, Node.js, Flutter, Tailwind CSS
+- **Databases & Tools:** PostgreSQL, MySQL, REST APIs, Git
 
-## 🛠 Tech Stack
+### Let's connect
+- **LinkedIn:** [linkedin.com/in/yong-lun-tan](https://www.linkedin.com/in/yong-lun-tan/)
+- **Email:** [tanyonglun2000@gmail.com](mailto:tanyonglun2000@gmail.com)
 
-Languages : 
-Java • Python • JavaScript • TypeScript • SQL • Dart
-
-Backend : 
-Spring Boot • Node.js • REST APIs
-
-Frontend : 
-React • Next.js • Flutter • Tailwind CSS
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/yong-lun-tan/
-- Email: tanyonglun2000@gmail.com
