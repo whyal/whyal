@@ -7,7 +7,7 @@ A software engineer working across the full stack.
 - Designing pragmatic systems.
 
 ### My Tech Stack
-- **Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Languages:** Java, C#, JavaScript, Python 
 - **Frameworks & Libs:** Spring Boot, Next.js, React, Node.js, Dotnet
   
 ### Let's connect
